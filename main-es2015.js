@@ -267,7 +267,7 @@ AppModule.ɵinj = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineInjector
             _angular_platform_browser__WEBPACK_IMPORTED_MODULE_0__["BrowserModule"],
             _angular_forms__WEBPACK_IMPORTED_MODULE_27__["ReactiveFormsModule"],
             angular_google_recaptcha__WEBPACK_IMPORTED_MODULE_29__["RecaptchaModule"].forRoot({
-                siteKey: '6Lf5SNIZAAAAAEe2pUSPMOmDaSUHWd-JjhjDwWXe',
+                siteKey: '6Lf5SNIZAAAAAGY0-CtVUo45OfsHrItI-z_qN0WU',
             }),
         ]] });
 (function () { (typeof ngJitMode === "undefined" || ngJitMode) && _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsetNgModuleScope"](AppModule, { declarations: [_app_component__WEBPACK_IMPORTED_MODULE_4__["AppComponent"],
@@ -336,7 +336,7 @@ AppModule.ɵinj = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineInjector
                     _angular_platform_browser__WEBPACK_IMPORTED_MODULE_0__["BrowserModule"],
                     _angular_forms__WEBPACK_IMPORTED_MODULE_27__["ReactiveFormsModule"],
                     angular_google_recaptcha__WEBPACK_IMPORTED_MODULE_29__["RecaptchaModule"].forRoot({
-                        siteKey: '6Lf5SNIZAAAAAEe2pUSPMOmDaSUHWd-JjhjDwWXe',
+                        siteKey: '6Lf5SNIZAAAAAGY0-CtVUo45OfsHrItI-z_qN0WU',
                     }),
                 ],
                 providers: [],
